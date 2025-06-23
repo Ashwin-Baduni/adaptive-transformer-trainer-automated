@@ -132,4 +132,3 @@ The system automatically optimizes based on available GPU memory.
 
 **Ashwin Baduni**  
 Email: baduniashwin@gmail.com
-```
