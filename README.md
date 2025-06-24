@@ -1,6 +1,6 @@
 # Adaptive Transformer Trainer (Automated) 🚀
 
-An intelligent PyTorch Transformer implementation with automated training, memory optimization, and dataset-aware preprocessing. This project converts notebook-based transformer training into production-ready Python scripts with smart GPU memory management and adaptive training strategies.
+An intelligent PyTorch Transformer implementation from scratch with automated training, memory optimization, and dataset-aware preprocessing. This project converts notebook-based transformer training into production-ready Python scripts with smart GPU memory management and adaptive training strategies.
 
 ## 🌟 Key Features
 
